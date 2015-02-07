@@ -43,4 +43,4 @@ Just add the package and config your Cylon. Example:
 
 More configuration options and devices documentation on cylonjs website: [http://cylonjs.com/](http://cylonjs.com/) There will be blog post about it soon...
 
-You can also add ````juliancwirko:caprica```` package. This is a simple admin panel for all your connected Cylons. It will list all configured commands. It need to be added by hand. You can read more about it here: []()
+You can also add ````juliancwirko:caprica```` package. This is a simple admin panel for all your connected Cylons. It will list all configured commands. It need to be added by hand. You can read more about it here: [https://github.com/juliancwirko/meteor-caprica](https://github.com/juliancwirko/meteor-caprica)

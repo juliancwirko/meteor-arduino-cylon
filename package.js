@@ -2,7 +2,7 @@ Package.describe({
     name: 'juliancwirko:arduino-cylon',
     summary: 'Meteor and Cylon.js for Arduino',
     version: '1.0.0',
-    // git: ''
+    git: 'https://github.com/juliancwirko/meteor-arduino-cylon.git'
 });
 
 Npm.depends({
