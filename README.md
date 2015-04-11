@@ -48,3 +48,7 @@ You can also add ````juliancwirko:caprica```` package. This is a simple admin pa
 #### Blog post
 
 [Meteor meets Arduino and Cylon](http://julian.io/meteor-meets-arduino-and-cylon/)
+
+#### Changelog
+
+- 1.1.0 should be compatible with Cylon 1.0 There is also older version of Serialport (1.3.1) needed because Meteor has some problems with newest version.

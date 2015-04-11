@@ -6,15 +6,13 @@ Package.describe({
 });
 
 Npm.depends({
+    'serialport': '1.3.1',
     'cylon-firmata': '0.20.0'
 });
 
 Package.onUse(function(api) {
-
     api.addFiles([
         'cylon.js',
     ], 'server');
-
     api.export('Cylon', 'server');
-
 });
